@@ -31,20 +31,7 @@
 - 🔀 **Tabuleiro aleatório:** Os emojis são embaralhados a cada partida.
 - ⏱️ **Cronômetro:** Registra o tempo até o jogador vencer.
 - 🔄 **Reinício rápido:** Possibilidade de jogar novamente facilmente.
-
----
-
-## 🖼️ Capturas de Tela
-
-### Tabuleiro do jogo
-![Tabuleiro](images/board.png)
-
-### Jogo em andamento
-![Gameplay](images/gameplay.png)
-
-### Vitória
-![Vitória](images/win.png)
-
+  
 ---
 
 ## 🚀 Como Executar o Projeto
