@@ -1,4 +1,4 @@
-# combinacaoAnimal 🐾
+# CombinacaoAnimal 🐾
 
 ![Tela inicial do jogo](game.png)
 
@@ -8,7 +8,7 @@
 
 ## 🎮 Demonstração
 
-![Demonstração do jogo](images/demo.gif)
+![Demonstração do jogo](game_gif.gif)
 
 ---
 
